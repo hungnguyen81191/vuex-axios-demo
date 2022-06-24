@@ -1,4 +1,4 @@
-# learn-pinia
+# vuex-axios-demo
 
 ## Project setup
 ```
